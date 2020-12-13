@@ -1,0 +1,22 @@
+body {
+  margin: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 100px 550px 0px;
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+  justify-items: center;
+  align-items: center;
+}
+
+.desc .icon{
+  background-color: #444;
+  color: #fff;
+  padding: 20px;
+  font-size: 150%;
+  justify-items: center;
+  align-items: center;
+}
