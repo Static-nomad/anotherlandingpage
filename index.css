@@ -8,8 +8,7 @@ body {
   grid-gap: 10px;
   background-color: #fff;
   color: #444;
-  justify-items: center;
-  align-items: center;
+   justify-content: center;
 }
 
 .desc .icon{
@@ -17,6 +16,18 @@ body {
   color: #fff;
   padding: 20px;
   font-size: 150%;
-  justify-items: center;
-  align-items: center;
+   justify-content: center;
+  
+}
+
+ol li{
+  list-style-type: none;
+
+}
+ul li{
+  list-style-type: none;
+
+}
+.level {
+    background-color: gray;
 }
