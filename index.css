@@ -31,3 +31,9 @@ ul li{
 .level {
     background-color: gray;
 }
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
